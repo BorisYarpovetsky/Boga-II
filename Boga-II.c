@@ -1,12 +1,3 @@
-/*
-Денис Олегович Ч.
-Сбер
-2202 2056 2459 7933
--------------------
-olddemons@yandex.ru
--------------------
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
